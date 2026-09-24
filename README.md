@@ -23,7 +23,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/ClearForm`.
+Working copy from my Historical Dev folder `VB/Old/ClearForm`.
 Company names in project files: www.TheScarms.com.
 
 ## License
